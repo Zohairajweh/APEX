@@ -116,7 +116,7 @@ a:hover {
 .hero {
   display: table;
   position: relative;
-  background-image: url(../img/cover2.jpg);
+  background-image: url(../img/cover.jpg);
   background-size: cover;
   padding: 150px 0;
   color: #fff;
@@ -124,7 +124,14 @@ a:hover {
   height: 100vh;
   
 }
-
+.h1-hero{
+  color: #000;
+  /* background-color: rgb(197, 176, 176); */
+}
+.h4-hero{
+  color: #000;
+  
+}
 .hero:after {
   content: '';
   z-index: 0;
