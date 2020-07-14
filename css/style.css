@@ -1089,13 +1089,13 @@ margin-left: 40px;
     display: inline-block;
   }
 }
-.LOGO{
+/* .LOGO{
   width: 175%;
 
 text-align: left;
 position: relative;
 left: -120px;
-}
+} */
 @media (max-width: 767px) {
   .block {
     padding-left: 30px;
