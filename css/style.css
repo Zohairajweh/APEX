@@ -124,6 +124,18 @@ a:hover {
   height: 100vh;
   
 }
+
+
+.container .content {
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+  width: 100%; /* Full width */
+  padding: 20px; /* Some padding */
+}
+.content p{
+  color: #f1f1f1;
+}
 .h1-hero{
   color: #000;
   /* background-color: rgb(197, 176, 176); */
